@@ -1,3 +1,7 @@
+body{
+  margin: 8px;
+}
+
 section {
   text-align: justify;
   font-family: "Orbitron", sans-serif;
